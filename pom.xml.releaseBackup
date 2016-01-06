@@ -26,6 +26,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <!-- Parent Project -->
+    <!-- <parent>
+        <groupId>org.forgerock.openam</groupId>
+        <artifactId>openam-authentication</artifactId>
+        <version>13.0.0</version>
+    </parent> -->
+    
+    <scm>
+        <developerConnection>scm:git:git@github.com:BohoCode/openam-auth-rsa-axm.git</developerConnection>
+    </scm>
+
     <!-- Component Definition -->
     <name>OpenAM Authentication For RSA ClearTrust/Access Manager</name>
     <description>OpenAM Authentication Module that uses RSA ClearTrust/Access Manager</description>
@@ -33,11 +44,6 @@
     <groupId>org.forgerock.openam</groupId>
     <version>13.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-
-    <scm>
-        <developerConnection>scm:git:git@github.com:BohoCode/openam-auth-rsa-axm.git</developerConnection>
-    </scm>
-
     
     <properties>
         <rsa.axm.version>6.2.2</rsa.axm.version>
