@@ -39,9 +39,9 @@ The repository contains branches corresponding to the version of OpenAM/AM that 
 
 OpenAM/AM version  	| Repository Branch
 -------------------	|------------------
-5.5.1					| releases/5.5.1
-5.1.1					| releases/5.1.1
-5.0.0					| releases/5.1.1
+AM 5.5.1				| releases/5.5.1
+AM 5.1.1    			| releases/14.1.1
+AM 5.0.0				| releases/14.0.0
 OpenAM 13.5.1			| releases/13.5.1
 OpenAM 13.0.0			| releases/13.0.0
 OpenAM 12.0.4			| releases/12.0.4
