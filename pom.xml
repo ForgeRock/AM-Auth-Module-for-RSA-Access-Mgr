@@ -42,7 +42,7 @@
     
     <properties>
         <rsa.axm.version>6.2.2</rsa.axm.version>
-        <forgerock.am.version>13.5.0</forgerock.am.version>
+        <forgerock.am.version>14.0.0</forgerock.am.version>
     </properties>
     
     <repositories>
