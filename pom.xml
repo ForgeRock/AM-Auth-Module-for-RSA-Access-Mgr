@@ -26,19 +26,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:ForgeRock/openam-auth-rsa-axm.git</developerConnection>
+    </scm>
+
     <!-- Component Definition -->
     <name>OpenAM Authentication For RSA ClearTrust/Access Manager</name>
     <description>OpenAM Authentication Module that uses RSA ClearTrust/Access Manager</description>
     <artifactId>openam-auth-rsa-axm</artifactId>
     <groupId>org.forgerock.openam</groupId>
-    <version>13.5.1-SNAPSHOT</version>
+    <version>13.5.1</version>
     <packaging>jar</packaging>
-
-    <scm>
-        <developerConnection>scm:git:git@github.com:ForgeRock/AM-Auth-Module-for-RSA-Access-Mgr.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
-
     
     <properties>
         <rsa.axm.version>6.2.2</rsa.axm.version>
