@@ -31,7 +31,7 @@
     <description>OpenAM Authentication Module that uses RSA ClearTrust/Access Manager</description>
     <artifactId>openam-auth-rsa-axm</artifactId>
     <groupId>org.forgerock.openam</groupId>
-    <version>14.1.1-SNAPSHOT</version>
+    <version>14.1.1</version>
     <packaging>jar</packaging>
 
     <scm>
