@@ -31,12 +31,13 @@
     <description>OpenAM Authentication Module that uses RSA ClearTrust/Access Manager</description>
     <artifactId>openam-auth-rsa-axm</artifactId>
     <groupId>org.forgerock.openam</groupId>
-    <version>13.0.0-SNAPSHOT</version>
+    <version>13.5.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
         <developerConnection>scm:git:git@github.com:BohoCode/openam-auth-rsa-axm.git</developerConnection>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
 
     
     <properties>
