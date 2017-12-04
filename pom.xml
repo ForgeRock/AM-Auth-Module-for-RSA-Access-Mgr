@@ -35,7 +35,7 @@
     <packaging>jar</packaging>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:BohoCode/openam-auth-rsa-axm.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:ForgeRock/AM-Auth-Module-for-RSA-Access-Mgr.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
